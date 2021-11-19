@@ -1,0 +1,16 @@
+{
+  "name": "hello-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "hello": "node helloGitHub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "dotenv": "^10.0.0"
+  }
+}
